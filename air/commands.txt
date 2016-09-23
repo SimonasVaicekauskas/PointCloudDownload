@@ -1,0 +1,6 @@
+"/home/simas/scripts/wait_one.sh"
+"/home/simas/scripts/wait_two.sh"
+"/home/simas/scripts/wait_two.sh"
+"/home/simas/scripts/wait_two.sh"
+"/home/simas/scripts/wait_two.sh"
+

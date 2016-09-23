@@ -1,0 +1,30 @@
+=================================================================
+"/home/simas/micmac/bin/mm3d" "Tapioca" "MulScale" ".*jpg" "300" "500" 
+ PID : 4699 ;   [Beginning at ] Wed Sep 21 12:08:17 2016
+=================================================================
+"/home/simas/micmac/bin/mm3d" "Tapioca" "MulScale" ".*jpg" "300" "500" 
+ PID : 4810 ;   [Beginning at ] Wed Sep 21 12:11:29 2016
+=================================================================
+"/home/simas/micmac/bin/mm3d" "Tapioca" "MulScale" ".*jpg" "300" "500" 
+ PID : 4834 ;   [Beginning at ] Wed Sep 21 12:11:59 2016
+=================================================================
+"/home/simas/micmac/bin/mm3d" "Tapioca" "MulScale" ".*jpg" "300" "500" 
+ PID : 4886 ;   [Beginning at ] Wed Sep 21 12:14:20 2016
+=================================================================
+"/home/simas/micmac/bin/mm3d" "Tapioca" "MulScale" ".*jpg" "300" "500" 
+ PID : 4927 ;   [Beginning at ] Wed Sep 21 12:16:14 2016
+=================================================================
+"/home/simas/micmac/bin/mm3d" "Tapioca" "MulScale" ".*jpg" "300" "500" 
+ PID : 4984 ;   [Beginning at ] Wed Sep 21 12:19:32 2016
+=================================================================
+"/home/simas/micmac/bin/mm3d" "Tapioca" "MulScale" ".*jpg" "300" "500" 
+ PID : 5420 ;   [Beginning at ] Wed Sep 21 12:38:04 2016
+=================================================================
+"/home/simas/micmac/bin/mm3d" "Tapioca" "MulScale" ".*jpg" "250" "700" 
+ PID : 8614 ;   [Beginning at ] Wed Sep 21 18:20:50 2016
+=================================================================
+"/home/simas/micmac/bin/mm3d" "Tapas" "FishEyeEqui" ".*jpg" "Out=Cal1" 
+ PID : 8622 ;   [Beginning at ] Wed Sep 21 18:21:19 2016
+=================================================================
+"/home/simas/micmac/bin/mm3d" "Tapas" "Figee" ".*jpg" "InCal=Cal1" "Out=Ori" 
+ PID : 8628 ;   [Beginning at ] Wed Sep 21 18:21:19 2016

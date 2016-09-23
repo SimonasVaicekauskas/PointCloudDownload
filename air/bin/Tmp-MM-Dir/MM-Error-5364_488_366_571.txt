@@ -1,0 +1,6 @@
+Exit with code 1 
+Generated from line 193  of file /home/mdeveau/culture3d/culture3d_src/src/util/error.cpp 
+PID=5364
+Context=[cEliseFatalErrorHandler::cEFEH_OnErreur]
+GMEC:mes=Not enough arg line=948 file=/home/mdeveau/culture3d/culture3d_src/src/uti_phgrm/CPP_Tapioca.cpp
+MM3D-Command=[/home/simas/micmac/bin/mm3d Tapioca ]

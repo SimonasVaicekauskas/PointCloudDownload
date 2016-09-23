@@ -1,0 +1,17 @@
+module airvision
+{
+  module contracts
+  {
+    struct point_cloud_response
+      {
+        unsigned long index; // request id
+        sequence <char, 20971520> data; // unlimited length
+        string filename;
+      };
+      struct point_cloud_request
+      {
+	string msg;
+	long index;
+    };
+  };
+};
